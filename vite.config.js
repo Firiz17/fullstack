@@ -6,6 +6,6 @@ export default defineConfig({
   plugins: [vue()],
   preview: {
     host:true,
-    strictPort:4173
+    strictPort: 4173
   }
 })
